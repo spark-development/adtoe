@@ -1,0 +1,5 @@
+.git
+*.r
+*.log
+results.xml
+.settings
